@@ -76,7 +76,7 @@ Passing a number as a text
 
 Printing a text with special characters
 
-    >>> text_indentation("Betty: Holberton? Python is. cool   ")
+    >>> text_indentation("Betty: Alx? Python is. cool   ")
     Betty:
     <BLANKLINE>
     Alx?
